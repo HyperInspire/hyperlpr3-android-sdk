@@ -1,4 +1,4 @@
-## HyperLPR3-Android-SDK   HyperLPR3-License Plate Recognition Android SDK
+## HyperLPR3-License Plate Recognition Android SDK
 
 [中文文档](README_CH.md)
 
