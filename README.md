@@ -4,7 +4,7 @@
 
 ### Source Code Project
 
-If you need to learn about the build steps in the source code of the project, you can go there[HyperLPR](https://github.com/szad670401/HyperLPR).
+If you need to learn about the build steps in the source code of the project, you can go : [HyperLPR](https://github.com/szad670401/HyperLPR).
 
 ### Supporting Platform
 
