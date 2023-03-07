@@ -27,11 +27,12 @@ allprojects {
 
 ```java
 dependencies {
-	  implementation 'com.github.HyperInspire:hyperlpr3-android-sdk:1.0.2'
+	  implementation 'com.github.HyperInspire:hyperlpr3-android-sdk:1.0.3'
 }
 ```
 
 ### 如何使用
+
 
 #### 初始化HyperLPR
 

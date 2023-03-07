@@ -12,6 +12,27 @@ If you need to learn about the build steps in the source code of the project, yo
 
 - Android: arm64-v8a、armeabi-v7a
 
+### Add Dependency
+
+Add Jitpack dependencies to your Gradle configuration
+
+```java
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
+	}
+}
+```
+
+Add dependencies in build.gradle for projects where you need hyperlpr
+
+```java
+dependencies {
+	  implementation 'com.github.HyperInspire:hyperlpr3-android-sdk:1.0.3'
+}
+```
+
 ### How to Use
 
 #### Initialize  HyperLPR
